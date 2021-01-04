@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6opMBQ50F3m4k1HmgMMT/2dEia3fuUCIViY1vY01jy1qFOiIWWIXskxUmEJjLu3nrjbozdhjnevcvNcAuSJr+A==",
+  "success": true,
+  "projectFilePath": "/home/kameleon/Desktop/HashSet/HashSet/HashSet.csproj",
+  "expectedPackageFiles": [
+    "/home/kameleon/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/kameleon/.nuget/packages/microsoft.netframework.referenceassemblies.net48/1.0.0/microsoft.netframework.referenceassemblies.net48.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
